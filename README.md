@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou Jeann Souza Silva 👋
 
-<!--
-**jeannsouza27-blip/jeannsouza27-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Em transição para **Desenvolvimento Front-End**  
+📚 Estudando **HTML, CSS, JavaScript e React**  
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
+☁️ Certificado em **Azure Fundamentals (AZ-900)**  
+🛠️ 9 anos de experiência em **suporte técnico e infraestrutura de TI**
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+Sou apaixonado por tecnologia e atualmente estou focado em conquistar minha primeira oportunidade como **Desenvolvedor Front-End Júnior**, unindo minha experiência prática em TI com novos conhecimentos em desenvolvimento web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/jeann-silva/) • [GitHub](https://github.com/)
