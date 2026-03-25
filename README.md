@@ -1,7 +1,13 @@
 # Olá, eu sou Jeann Souza Silva 👋
 
 💻 Em transição para **Desenvolvimento Front-End**  
-📚 Estudando **HTML, CSS, JavaScript e React**  
+<br>
+📚 Estudando 
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<br>
+
 🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
 ☁️ Certificado em **Azure Fundamentals (AZ-900)**  
 🛠️ 9 anos de experiência em **suporte técnico e infraestrutura de TI**
